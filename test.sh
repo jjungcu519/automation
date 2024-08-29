@@ -1,0 +1,1 @@
+echo 'hello' >> /home/ubuntu/dmf/automation/test.log
